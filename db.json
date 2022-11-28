@@ -1,0 +1,86 @@
+{
+  "posts": [
+    {
+      "name": "sinraj",
+      "email": "sinraj@gmail.com",
+      "password": "siraj",
+      "id": 1
+    },
+    {
+      "name": "viratkohli",
+      "email": "virat@gmial.com",
+      "password": "erewte",
+      "id": 2
+    },
+    {
+      "name": "azar",
+      "email": "azar@gmail.com",
+      "password": "sfdfds",
+      "id": 3
+    },
+    {
+      "name": "dshfokjbsd",
+      "email": "sdfsd@gmail.com",
+      "password": "343534",
+      "id": 4
+    },
+    {
+      "name": "ramar",
+      "email": "ramar@gmail.com",
+      "password": "ramar@123",
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "name": "Cara Aguilar",
+      "gender": "female",
+      "company": "AUSTECH",
+      "email": "caraaguilar@austech.com",
+      "phone": "+1 (938) 492-3998"
+    },
+    {
+      "name": "Lowe Olsen",
+      "gender": "male",
+      "company": "COMCUR",
+      "email": "loweolsen@comcur.com",
+      "phone": "+1 (891) 531-2599"
+    },
+    {
+      "name": "Contreras Phelps",
+      "gender": "male",
+      "company": "ECRAZE",
+      "email": "contrerasphelps@ecraze.com",
+      "phone": "+1 (899) 547-2837"
+    },
+    {
+      "name": "Jennings Frost",
+      "gender": "male",
+      "company": "DELPHIDE",
+      "email": "jenningsfrost@delphide.com",
+      "phone": "+1 (801) 424-3593"
+    },
+    {
+      "name": "Erickson Obrien",
+      "gender": "male",
+      "company": "PEARLESSA",
+      "email": "ericksonobrien@pearlessa.com",
+      "phone": "+1 (912) 480-2987"
+    },
+    {
+      "name": "Carey Wynn",
+      "gender": "female",
+      "company": "NSPIRE",
+      "email": "careywynn@nspire.com",
+      "phone": "+1 (998) 401-3181"
+    },
+    {
+      "name": "Harrell Leonard",
+      "gender": "male",
+      "company": "CUBIX",
+      "email": "harrellleonard@cubix.com",
+      "phone": "+1 (928) 590-3264"
+    }
+  ],
+  "todos": []
+}
